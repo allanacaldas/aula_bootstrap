@@ -1,0 +1,47 @@
+body{
+    font-family: 'Bellota', cursive;
+}
+
+.navbar{
+    background-color: rgba(29, 143, 143, 0.637);
+}
+
+.navbar-brand{
+    margin: 0 0 0 16px;
+    font-size: 40px;
+}
+.nav-item{
+   padding: 6px;
+}
+
+.navbar-nav{
+position: absolute;
+left: 950px;
+font-size: 22px;
+font-weight: bolder;
+}
+main{
+    padding-bottom: 40px;
+    background-color: rgb(132, 130, 136);
+}
+
+section, footer{
+    background-color: rgb(132, 130, 136);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+}
+
+h4,h3{
+    margin:10px 0 30px 0;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    /* border: dashed black; */
+}
+footer p{
+font-size: 18px;
+}
